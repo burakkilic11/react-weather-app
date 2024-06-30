@@ -1,6 +1,3 @@
-Tabii ki, işte README dosyanız için yazabileceğiniz açıklayıcı bir özet ve önemli noktalar:
-
-```markdown
 # Weather App
 
 This is a simple weather application built with React that fetches and displays weather information for a specified location using the OpenWeatherMap API. 
